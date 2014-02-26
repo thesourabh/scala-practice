@@ -1,0 +1,1 @@
+Random collection of scala code I've written at some point.
